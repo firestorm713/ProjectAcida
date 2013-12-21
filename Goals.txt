@@ -1,0 +1,103 @@
+http://www.burgzergarcade.com/hack-slash-rpg-unity3d-game-engine-tutorial
+
+Alright, so we have a week and a half to get everything done. Let's look at our list:
+-------------------------------------------------------------------------------------
+Enemies -- Just a cube for now, I can add all the other stuff as needed.
+Targeting
+Game Over Screen
+Engine Trails - Austin
+Particle Effects on a hit - Austin
+Explosion on death
+Asteroid Texture
+Banking - Cullen
+More Ship Components - Cullen
+
+
+Decide what you'd like to try to get done over the next few weeks, and make a list like I did below, with a goal for when you finish each thing you take on. Put an X by stuff you finish.
+Andrew's List					Done By
+--------------------------------------------------------
+Resources, Max Cargo, Add Mass when mining	Monday(5/6)
+Basic AI					Wednesday(5/8)
+Fix Asteroid Script				Wednesday(5/1)X
+Turrets						Friday(5/10)
+Cannons						Friday(5/10)
+
+Austin's List					Done By
+-------------------------------------------------------
+Particle Effect				Friday(5/10)
+Engine Trails				Friday(5/10)
+Damage from Collision		Friday(5/10)
+Death of player				Friday(5/10)
+
+---------------------Keeping for Records, see above for current goals-----------------------------
+
+1. Ship needs to be constructed on the fly by a script.
+2. Need Boxes that can be destroyed
+3. Going to set up Zim-Wiki on the repo for this project. 
+
+
+Advanced 
+Combat
+Intel
+Defense
+Agengy
+
+Asset team needs to have
+Cullen:
+1 cockpit
+1 Set of Wings
+1 Hull
+1 Cannon
+1 Laser
+1 Missile
+3 Materials one for player, one for enemy
+1 Station
+
+5 Weapon Sounds (1 for each weapon)
+1 Sound effect for thrusters
+1 Explosion
+Title Screen Music(1 minute loop)
+Explore Music(1 minute loop)
+Battle Music(1 minute loop)
+
+Bonus:
+1 Planet
+Extras of cockpits, weapons, etc.
+
+Health Bar
+Shields Bar
+Energy Bar
+Ammo Counter
+Ability Bar
+
+Title Screen
+Pause Menu
+Inventory
+Ship
+Buy/Sell menus
+
+
+Combat/AI needs to complete
+Health/Shields system
+Energy system
+Weapon Damage
+
+Enemies need to chase player or patrol
+Basic formations?
+
+Mechanics for each weapon
+Turrets
+Missiles
+Lasers
+Cannons
+
+Bonus:
+Electronic Warfare(Equipment Jamming)
+Quick Repair/Shield Batteries
+
+
+Non-Combat
+Buy/Sell resources
+4 resources
+Non-Hostile ships
+Basic Crafting System
